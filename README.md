@@ -5,7 +5,7 @@
 <h1 align="center">Robotica Werenfridus v6</h1>
 
 <p align="center">
-  Code for people to explore and see what we as students of this club are capable of, <strong>due to the club.</strong><br>
+  Code for people to explore and see what we as students of this club are capable of, <strong>because of the club.</strong><br>
   🌐 <a href="https://roboticawerenfridus.nl" target="_blank">roboticawerenfridus.nl</a>
 </p>
 
