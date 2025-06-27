@@ -1,0 +1,256 @@
+.stats81-max-width {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats81-container2 {
+  width: 100%;
+  height: 138px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.stats81-title {
+  height: 50%;
+}
+ 
+.stats81-container3 {
+  width: 100%;
+}
+ 
+.stats81-container4 {
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+  background-color: #292929;
+}
+ 
+.stats81-text10 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-text11 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-container5 {
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+  background-color: #292929;
+}
+ 
+.stats81-text14 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-text15 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-container6 {
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+  background-color: #292929;
+}
+ 
+.stats81-text18 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-text19 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-container7 {
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  flex-direction: column;
+  background-color: #292929;
+}
+ 
+.stats81-text22 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-text23 {
+  color: #ffffff;
+  font-family: "Poppins";
+}
+ 
+.stats81-fragment10 {
+  display: contents;
+}
+ 
+.stats81-text26 {
+  display: inline-block;
+}
+ 
+.stats81-fragment11 {
+  display: contents;
+}
+ 
+.stats81-text27 {
+  display: inline-block;
+}
+ 
+.stats81-text29 {
+  text-decoration: underline;
+}
+ 
+.stats81-fragment12 {
+  display: contents;
+}
+ 
+.stats81-text30 {
+  display: inline-block;
+}
+ 
+.stats81-fragment13 {
+  display: contents;
+}
+ 
+.stats81-text31 {
+  display: inline-block;
+}
+ 
+.stats81-text33 {
+  text-decoration: underline;
+}
+ 
+.stats81-fragment14 {
+  display: contents;
+}
+ 
+.stats81-text34 {
+  display: inline-block;
+}
+ 
+.stats81-text36 {
+  text-decoration: underline;
+}
+ 
+.stats81-fragment15 {
+  display: contents;
+}
+ 
+.stats81-text37 {
+  display: inline-block;
+}
+ 
+.stats81-fragment16 {
+  display: contents;
+}
+ 
+.stats81-text38 {
+  display: inline-block;
+}
+ 
+.stats81-fragment17 {
+  display: contents;
+}
+ 
+.stats81-text39 {
+  display: inline-block;
+}
+ 
+.stats81-text41 {
+  text-decoration: underline;
+}
+ 
+.stats81-fragment18 {
+  display: contents;
+}
+ 
+.stats81-text42 {
+  display: inline-block;
+}
+ 
+.stats81-fragment19 {
+  display: contents;
+}
+ 
+.stats81-text43 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .stats81-container4 {
+    width: 100%;
+  }
+  .stats81-container5 {
+    width: 100%;
+  }
+  .stats81-container6 {
+    width: 100%;
+  }
+  .stats81-container7 {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .stats81-title {
+    text-align: center;
+  }
+  .stats81-container4 {
+    width: 100%;
+  }
+  .stats81-container5 {
+    width: 100%;
+  }
+  .stats81-container6 {
+    width: 100%;
+  }
+  .stats81-container7 {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .stats81-title {
+    align-self: center;
+    text-align: center;
+  }
+  .stats81-container4 {
+    width: 100%;
+  }
+  .stats81-container5 {
+    width: 100%;
+  }
+  .stats81-container6 {
+    width: 100%;
+  }
+  .stats81-container7 {
+    width: 100%;
+  }
+}
