@@ -34,9 +34,9 @@ So you see this page, but what about the actual club itself, well take a look at
 
 ---
 
-## Want to make your own version of the website, submit it and let it maybe become the v7 of our project?
+## Want to make your own version of the website?
 
-Go for it, download the repo now and fork it. You can submit it via email or IRL.
+Go for it, download the repo now and fork it. You can submit it via email or IRL and maybe your website version will turn into the v7 of the site!
 ```bash
 # Clone the repo
 git clone https://github.com/wolfspace099/rw-v6
