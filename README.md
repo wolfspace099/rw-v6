@@ -25,6 +25,10 @@ But why, well thats because:
 - CSS and JS with HTML can be in just a .HTML file.
 - PHP Support, for databases and hosting faster.
 
+<p align="center">
+  <img src="images/preview.png" alt="Website PREVIEW image" width="200"/>
+</p>
+
 ---
 
 ## 🔧 How does the website work. How is it build?
