@@ -19,7 +19,7 @@ function fetch_newsletter($url) {
 }
 
 function call_gemini($prompt) {
-    $apiKey = 'AIzaSyAM-M_xEzndX6-jGQB4I5sQVsjkFnwOHMM';
+    $apiKey = '### API KEY ###';
     $url = 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=' . $apiKey;
 
     $data = [
