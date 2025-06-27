@@ -5,47 +5,44 @@
 <h1 align="center">Robotica Werenfridus v6</h1>
 
 <p align="center">
-  🚀 Official codebase for the robotics program at <strong>Werenfridus College</strong><br>
+  Code for people to explore and see what we as students of this club are capable of, <strong>due to the club.</strong><br>
   🌐 <a href="https://roboticawerenfridus.nl" target="_blank">roboticawerenfridus.nl</a>
 </p>
 
 ---
 
-## 🧠 About
+## About this website
 
-**Robotica Werenfridus v6** is the sixth iteration of the robotics platform developed by students and mentors at Werenfridus College. It powers our robots, web interfaces, automation scripts, and IoT integrations used in education, competitions, and open-source outreach.
-
----
-
-## 📸 Screenshots
-
-| Dashboard | Code Editor |
-|----------|-------------|
-| ![Dashboard](assets/screenshot-dashboard.png) | ![Code Editor](assets/screenshot-editor.png) |
+**rw-v6** is the sixth iteration of the robotics website, this time completely changed for the next era of this club. Next school years we will be trying to expand our community, to become a loved club at school, even for the haters.
 
 ---
 
-## 🛠️ Tech Stack
+## How does the website work. How is it build?
 
-- 🧾 **Languages**: Python, JavaScript
-- ⚙️ **Frameworks**: Flask, React
-- 🤖 **Robotics**: Arduino, Raspberry Pi
-- ☁️ **Hosting**: Pterodactyl, GitHub Pages
-- 📡 **Communication**: MQTT, WebSocket
+So for this one we added a "Robotica Lid" dashboard, that allows users who become members to experience something special with they're own dashboard, accessing the docs, newest newsletters and scheduling there visits to the club.
+How the website actually works is different.
+
+* HTML, JS and CSS stack
+* Added PHP for better backend on login etc.
+* Run using PHP
+* Hosted at our own server, routed via custom proxy.
+---
+
+## The actual club itself.
+
+So you see this page, but what about the actual club itself, well take a look at the website and explore more about it.
 
 ---
 
-## 🚀 Getting Started
+## Want to make your own version of the website, submit it and let it maybe become the v7 of our project?
 
+Go for it, download the repo now and fork it. You can submit it via email or IRL.
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/robotica-werenfridus-v6.git
+git clone https://github.com/wolfspace099/rw-v6
 
 # Navigate into the folder
-cd robotica-werenfridus-v6
+cd rw-v6
+```
 
-# Install dependencies (example for Node.js backend/frontend)
-npm install
-
-# Start the app (example)
-npm run dev
+Change the repo how you want, its open to changes with the lisence.
