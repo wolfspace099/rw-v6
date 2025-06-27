@@ -26,7 +26,7 @@ But why, well thats because:
 - PHP Support, for databases and hosting faster.
 
 <p align="center">
-  <img src="images/preview.png" alt="Website PREVIEW image" width="200"/>
+  <img src="preview.png" alt="Website PREVIEW image" width="200"/>
 </p>
 
 ---
