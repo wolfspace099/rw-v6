@@ -2,7 +2,7 @@
   <img src="images/logo-1000w.png" alt="Robotica Werenfridus Logo" width="200"/>
 </p>
 
-<h1 align="center">Robotica Werenfridus rev6</h1>
+<h1 align="center">Robotica Werenfridus v0.6.x</h1>
 
 <p align="center">
   🚀 Code for people to explore and see what we as students of this club are capable of, <strong>because of the club.</strong><br>
