@@ -13,13 +13,24 @@
 
 ## ℹ️ About this website
 
-**rw-v6** is the sixth iteration of the robotics website, this time completely changed for the next era of this club. Next school years we will be trying to expand our community, to become a loved club at school, even for the haters.
+**rw-v6** is the sixth iteration of the robotics website, this time completely changed for the next era of this club. 
+Next school years we will be trying to expand our community, to become a loved club at school, even for the haters.
+This site is written by 2 club members, more about them on the site itself (me too ofc).
+We have worked on many before, tried React, website builders and much more, until we decided, we are gonna go for plain old buddy HTML.
+But why, well thats because:
+
+- Less buggy, hosting anywhere, including local in the code editor.
+- HTML is really easy
+- No building or deploying, just hosting.
+- CSS and JS with HTML can be in just a .HTML file.
+- PHP Support, for databases and hosting faster.
 
 ---
 
 ## 🔧 How does the website work. How is it build?
 
-So for this one we added a "Robotica Lid" dashboard, that allows users who become members to experience something special with they're own dashboard, accessing the docs, newest newsletters and scheduling there visits to the club.
+So for this one we added a "Robotica Lid" dashboard. 
+It allows users who become members to experience something special with they're own dashboard, accessing the docs, newest newsletters and scheduling there visits to the club.
 How the website actually works is different.
 
 * HTML, JS and CSS stack
