@@ -1,8 +1,0 @@
-<?xml version='1.0'?>
-<MySQL_INIT>
-    <mysql_host>db.printiacs.nl</mysql_host>
-    <mysql_database>s16_Nieuwsbrief</mysql_database>
-    <mysql_username>u21_7PZQpfWyxW</mysql_username>
-    <mysql_password>7Qkb=!xFaw0TrafvT1F^hkvP</mysql_password>
-    <mysql_salt>!eH6CV08U7Hl!Gdr4s6</mysql_salt>
-</MySQL_INIT>
