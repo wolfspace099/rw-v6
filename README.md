@@ -73,6 +73,9 @@ sudo apt install php
 # Fill in the two xml files needed for the newsletter and registering
 sudo nano(or vim) sqlconfig.xml
 sudo nano(or vim) sqlconfig2.xml
+
+# Run the php server
+php -S 0.0.0.0:6091 router.php
 ```
 
 Change the repo how you want, its open to changes with the lisence.
