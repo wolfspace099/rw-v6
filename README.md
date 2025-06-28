@@ -70,9 +70,38 @@ cd rw-v6
 # Install PHP and it's dependencies
 sudo apt install php
 
-# Fill in the two xml files needed for the newsletter and registering
-sudo nano(or vim) sqlconfig.xml
-sudo nano(or vim) sqlconfig2.xml
+# Create the two databases on an sql server
+CREATE DATABASE IF NOT EXISTS website;
+USE website;
+
+CREATE TABLE members (
+    id INT(11) NOT NULL AUTO_INCREMENT,
+    name VARCHAR(150) NOT NULL,
+    student_number VARCHAR(7),
+    email VARCHAR(150) NOT NULL,
+    parent_contact VARCHAR(150),
+    password VARCHAR(255) NOT NULL,
+    level VARCHAR(50),
+    invoice_agreement TINYINT(1) DEFAULT 0,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    admin TINYINT(1) DEFAULT 0,
+    PRIMARY KEY (id)
+);
+
+# Database 2
+CREATE DATABASE IF NOT EXISTS newsletter;
+USE newsletter;
+
+CREATE TABLE subscribers (
+    id INT(11) NOT NULL AUTO_INCREMENT,
+    email VARCHAR(120) NOT NULL,
+    PRIMARY KEY (id)
+);
+
+
+# Fill in the two xml files needed for the newsletter and users
+sudo nano sqlconfig.xml #config 1 is for the users
+sudo nano sqlconfig2.xml #config 2 is for the newsletter
 
 # Run the php server
 php -S 0.0.0.0:6091 router.php
