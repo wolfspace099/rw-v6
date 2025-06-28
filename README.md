@@ -104,7 +104,7 @@ sudo nano sqlconfig.xml #config 1 is for the users
 sudo nano sqlconfig2.xml #config 2 is for the newsletter
 
 # Run the php server
-php -S 0.0.0.0:6091 router.php
+php -S 0.0.0.0:5000 router.php
 ```
 
 Change the repo how you want, its open to changes with the license.
