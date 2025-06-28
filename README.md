@@ -42,7 +42,7 @@ How the website actually works is different.
 * HTML, JS and CSS stack
 * Added PHP for better backend on login etc.
 * Run using PHP
-* Hosted at our own server, routed via custom proxy.
+* Hosted on Printiacs Hosting, with their attack protection and custom built proxy system.
  ------
 * To host it yourself,
 * make sure your have a sessions folder in the root directory of the site
