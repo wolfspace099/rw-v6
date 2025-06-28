@@ -103,6 +103,9 @@ CREATE TABLE subscribers (
 sudo nano sqlconfig.xml #config 1 is for the users
 sudo nano sqlconfig2.xml #config 2 is for the newsletter
 
+# Make the sessions folder
+mkdir sessions
+
 # Run the php server
 php -S 0.0.0.0:5000 router.php
 ```
