@@ -18,13 +18,14 @@ Next school years we will be trying to expand our community, to become a loved c
 This site is written by 2 club members, more about them on the site itself (me too ofc).
 The backend dev for this site is <a href="https://github.com/NathanSchalkwijk">@NathanSchalkwijk</a>, he worked on the login, registering, router.php etc. 
 We have worked on many before, tried React, website builders and much more, until we decided, we are gonna go for plain old buddy HTML.
+I made the frontend first, and then handed it off to <a href="https://github.com/NathanSchalkwijk">@NathanSchalkwijk</a> to work on the backend, he was also the one who decided to use PHP.
 But why, well thats because:
 
 - Less buggy, hosting anywhere, including local in the code editor.
 - HTML is really easy
 - No building or deploying, just hosting.
 - CSS and JS with HTML can be in just a .HTML file.
-- PHP Support, for databases and hosting faster.
+- PHP works well for databases, hosting and navigation.
 
 
 <img src="preview.png" alt="Website PREVIEW image" width="1000"/>
