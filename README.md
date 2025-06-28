@@ -31,7 +31,7 @@ But why, well thats because:
 
 ---
 
-## 🔧 How does the website work. How is it build?
+## 🔧 How does the website work. How is it built?
 
 So for this one we added a "Robotica Lid" dashboard. 
 It allows users who become members to experience something special with they're own dashboard, accessing the docs, newest newsletters and scheduling there visits to the club.
@@ -41,6 +41,12 @@ How the website actually works is different.
 * Added PHP for better backend on login etc.
 * Run using PHP
 * Hosted at our own server, routed via custom proxy.
+* ------
+* To host it yourself,
+* make sure your have a sessions folder in the root directory of the site
+* run the site using "php -S <host>:<port> router.php" eg. php -S 0.0.0.0:5000 router.php
+* the router.php is used for the site's navigation, it's not essential but it makes the URLs look nicer because it allows for the .php file extension to not be in the requested URL.
+* router.php also makes the 404.php and 403.php work, so if you want those you need it.
 ---
 
 ## 🌐 Language
