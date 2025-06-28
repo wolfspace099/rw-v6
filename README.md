@@ -78,4 +78,4 @@ sudo nano(or vim) sqlconfig2.xml
 php -S 0.0.0.0:6091 router.php
 ```
 
-Change the repo how you want, its open to changes with the lisence.
+Change the repo how you want, its open to changes with the license.
