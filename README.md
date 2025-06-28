@@ -17,7 +17,7 @@
 Next school years we will be trying to expand our community, to become a loved club at school, even for the haters.
 This site is written by 2 club members, more about them on the site itself (me too ofc).
 The backend dev for this site is <a href="https://github.com/NathanSchalkwijk">@NathanSchalkwijk</a>, he worked on the login, registering, router.php etc. 
-We have worked on many before, tried React, website builders and much more, until we decided, we are gonna go for plain old buddy HTML.
+We have worked on many other sites before, tried React (found it meh), website builders (not really website "building") and much more, until we decided to go for plain old buddy HTML.
 I made the frontend first, and then handed it off to <a href="https://github.com/NathanSchalkwijk">@NathanSchalkwijk</a> to work on the backend, he was also the one who decided to use PHP.
 But why, well thats because:
 
