@@ -64,8 +64,15 @@ Go for it, download the repo now and fork it. You can submit it via email or IRL
 # Clone the repo
 git clone https://github.com/wolfspace099/rw-v6
 
-# Navigate into the folder
+# Cd into the folder
 cd rw-v6
+
+# Install PHP and it's dependencies
+sudo apt install php
+
+# Fill in the two xml files needed for the newsletter and registering
+sudo nano(or vim) sqlconfig.xml
+sudo nano(or vim) sqlconfig2.xml
 ```
 
 Change the repo how you want, its open to changes with the lisence.
