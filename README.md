@@ -68,7 +68,7 @@ git clone https://github.com/wolfspace099/rw-v6
 cd rw-v6
 
 # Install PHP and it's dependencies
-sudo apt install php
+apt install php
 
 # Create the two databases on an sql server
 CREATE DATABASE IF NOT EXISTS website;
@@ -100,11 +100,17 @@ CREATE TABLE subscribers (
 
 
 # Fill in the two xml files needed for the newsletter and users
-sudo nano sqlconfig.xml #config 1 is for the users
-sudo nano sqlconfig2.xml #config 2 is for the newsletter
+nano sqlconfig.xml #config 1 is for the users
+nano sqlconfig2.xml #config 2 is for the newsletter
+use CTRL+X Y and ENTER to save the files.
 
 # Make the sessions folder
 mkdir sessions
+
+# Check the files: login.php wordt-lid.php and dashboard.php and make sure they have the correct path to your sessions folder
+use nano <file>
+and check for the line: "/home/container/sessions" and make sure it now points to your correct path.
+use CTRL+X Y and ENTER to save the files.
 
 # Run the php server
 php -S 0.0.0.0:5000 router.php
