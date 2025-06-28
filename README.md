@@ -41,7 +41,7 @@ How the website actually works is different.
 * Added PHP for better backend on login etc.
 * Run using PHP
 * Hosted at our own server, routed via custom proxy.
-* ------
+ ------
 * To host it yourself,
 * make sure your have a sessions folder in the root directory of the site
 * run the site using "php -S <host>:<port> router.php" eg. php -S 0.0.0.0:5000 router.php
