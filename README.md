@@ -53,7 +53,7 @@ How the website actually works is different.
 
 ## 🌐 Language
 
-Ben jij Nederlands en wil je deze README bekijken? Klik dan <a href="https://roboticawerenfridus.nl" target="_blank">hier</a> om de NL versie te bekijken!
+Ben jij Nederlands en wil je deze README bekijken? Klik dan <a href="[https://roboticawerenfridus.nl](https://github.com/wolfspace099/rw-v6/blob/main/READMEnl.md)" target="_blank">hier</a> om de NL versie te bekijken!
 
 ---
 
