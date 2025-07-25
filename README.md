@@ -46,7 +46,7 @@ How the website actually works is different.
  ------
 * To host it yourself,
 * make sure your have a sessions folder in the root directory of the site
-* run the site using "php -S <host>:<port> router.php" eg. php -S 0.0.0.0:5000 router.php
+* run the site using "php -S host:port router.php" eg. php -S 0.0.0.0:5000 router.php
 * the router.php is used for the site's navigation, it's not essential but it makes the URLs look nicer because it allows for the .php file extension to not be in the requested URL.
 * router.php also makes the 404.php and 403.php work, so if you want those you need it.
 ---
