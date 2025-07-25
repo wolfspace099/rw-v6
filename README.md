@@ -24,7 +24,7 @@ But why, well thats because:
 - Less buggy, hosting anywhere, including local in the code editor.
 - HTML is really easy
 - No building or deploying, just hosting.
-- CSS and JS with HTML can be in just a .HTML file.
+- Everything we need is just PHP files
 - PHP works well for databases, hosting and navigation.
 
 
