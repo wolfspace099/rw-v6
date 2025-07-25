@@ -53,12 +53,6 @@ De werking van de site is iets anders dan standaard.
 
 ---
 
-## 🌐 Taal
-
-Ben jij Nederlands en wil je deze README bekijken? Je bekijkt hem nu al!
-
----
-
 ## 🍴 Zelf een versie maken?
 
 Doe je ding! Download de repo, fork het, pas het aan.
